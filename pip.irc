@@ -1,0 +1,6 @@
+[distutils]
+index-servers = local
+[local]
+repository: http://62.84.119.212:8081/artifactory/api/pypi/skill3
+username: admin
+password: AP75iM6bLMhUT7QYJWtNFH2ZWpU
